@@ -43,7 +43,7 @@ I build AI systems that move beyond demos — from document intelligence and RAG
 
 <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch"/>  
 <img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face Transformers"/>
-<img src="https://img.shields.io/badge/RAG- retrieval%20systems-6C63FF?style=flat-square" alt="RAG"/>
+<img src="https://img.shields.io/badge/RAG-Retrieval%20Systems-6C63FF?style=flat-square" alt="RAG"/>
 <img src="https://img.shields.io/badge/Multi--Agent-AI%20Workflows-222222?style=flat-square" alt="Multi-Agent AI Workflows"/>
 <img src="https://img.shields.io/badge/LLMs-Open%20%26%20Hosted%20Models-412991?style=flat-square" alt="LLMs"/>
 
