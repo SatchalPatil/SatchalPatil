@@ -2,7 +2,9 @@
 
 <div align="center">
 
-# Yo, I'm Satchal Patil 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=170&section=header&text=Satchal%20Patil&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=twinkling" alt="Animated gradient header"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+LLMs+%7C+Agents;RAG+%26+Document+Intelligence;Making+models+do+useful+things;Currently+debugging+something+unreasonable" alt="Typing animation"/>
 
 ### AI Engineer • LLMs • Agents • Occasional bug negotiator
 
@@ -17,7 +19,7 @@ I make AI systems read the PDFs nobody wants to read, connect tools that weren't
   <img src="https://img.shields.io/badge/Email-Send%20a%20Signal-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/SatchalPatil">
-  <img src="https://komarev.com/ghpvc/?username=SatchalPatil&style=for-the-badge&color=6C63FF" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=satchalpatil&label=PROFILE%20VIEWS&color=6C63FF&style=flat-square" alt="Profile views counter"/>
 </a>
 
 </div>
@@ -138,5 +140,7 @@ If you're building something with LLMs, RAG, document AI, agentic workflows, or 
 <div align="center">
 
 **Building useful things. Breaking them in development. Ideally not in production.** 🫡
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6C63FF&height=90&section=footer" alt="Animated gradient footer"/>
 
 </div>
