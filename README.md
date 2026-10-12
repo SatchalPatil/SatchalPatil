@@ -34,12 +34,19 @@ I make AI systems read the PDFs nobody wants to read, connect tools that weren't
 
 > **Current philosophy:** make it work, figure out why it works, then try very hard not to break it in production.
 
-## 🧌 Terminally online, occasionally productive
+## 🗿 Certified internet moments
 
-- **r/ProgrammerHumor:** if it works, don't touch it. If it breaks, blame the dependency.
-- **r/LocalLLaMA:** *"I just need a small model"* — proceeds to price a GPU that costs more than the car.
-- **Stack Overflow energy:** duplicate the answer, change one variable, call it research.
-- **Production:** works on my machine is not an observability strategy.
+<p align="center">
+  <a href="https://www.reddit.com/r/ProgrammerHumor/comments/uwpur4/qa_vs_developer/">
+    <img src="https://preview.redd.it/qa-vs-developer-v0-7iifnx065f191.jpg?auto=webp&s=16ec747378bc567a9e7ad0d861a6f2f25de0829b" width="480" alt="Reddit programmer meme: QA says the code does not run; developer says it works on my machine"/>
+  </a>
+  <br/>
+  <em>“It works on my machine.” — the opening line of every great production incident.</em>
+</p>
+
+- **r/ProgrammerHumor:** the bug is probably one line. Finding that line is a feature-length film.
+- **r/LocalLLaMA:** “I just need a small model” — immediately opens a GPU comparison spreadsheet.
+- **Stack Overflow:** copy, adapt, pray, and never look at that function again.
 
 ## 🧰 The toolbox
 
