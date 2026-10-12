@@ -26,17 +26,17 @@ I make AI systems read the PDFs nobody wants to read, connect tools that weren't
 
 ---
 
-## 🧠 The lore
+## About
 
-- 🎓 AI & Data Science background. Yes, I have opinions about models. No, adding GPT to a button doesn't automatically make it an AI product.
-- 🏗️ I work around **LLMs, RAG, document intelligence, multi-agent systems, and backend engineering**.
-- 📄 I enjoy making sense of messy PDFs, compliance documents, and data that appears to have been formatted during a power cut.
-- 🔌 I like connecting models to real tools, APIs, databases, and workflows — because a chatbot that only chats is sometimes just a very expensive FAQ.
-- 🧪 Interested in making AI systems more reliable, traceable, and useful outside a demo video.
+- AI & Data Science background. Yes, I have opinions about models. No, adding GPT to a button doesn't automatically make it an AI product.
+- I work around **LLMs, RAG, document intelligence, multi-agent systems, and backend engineering**.
+- I enjoy making sense of messy PDFs, compliance documents, and data that appears to have been formatted during a power cut.
+- I like connecting models to real tools, APIs, databases, and workflows — because a chatbot that only chats is sometimes just a very expensive FAQ.
+- Interested in making AI systems more reliable, traceable, and useful outside a demo video.
 
 > **Current philosophy:** make it work, figure out why it works, then try very hard not to break it in production.
 
-## 🗿 Niche internet lore
+## Niche internet lore
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsdiamw9q/giphy.gif" width="135" alt="Typing intensely"/>
@@ -50,9 +50,9 @@ I make AI systems read the PDFs nobody wants to read, connect tools that weren't
   <sub><b>CUDA OOM after “it should fit”</b></sub>
 </p>
 
-<sub>For the people who know the difference between a model demo and a model serving stack. <a href="https://www.reddit.com/r/LocalLLaMA/">r/LocalLLaMA</a> 🤝 <a href="https://www.reddit.com/r/MachineLearning/">r/MachineLearning</a></sub>
+<sub>For the people who know the difference between a model demo and a model serving stack. <a href="https://www.reddit.com/r/LocalLLaMA/">r/LocalLLaMA</a> / <a href="https://www.reddit.com/r/MachineLearning/">r/MachineLearning</a></sub>
 
-## 🧰 The toolbox
+## Stack
 
 <div align="center">
 
@@ -76,43 +76,43 @@ I make AI systems read the PDFs nobody wants to read, connect tools that weren't
 
 *The stack changes. The debugging remains.*
 
-## 🚀 Things I've helped build
+## Selected work
 
-### 🏭 Iverix — Pharma Compliance Verification
+### Iverix — Pharma Compliance Verification
 AI-assisted verification of pharmaceutical Batch Manufacturing Records (BMRs). The goal: help reviewers find relevant information and evidence without manually spelunking through document mountains.
 
 **Under the hood:** Document AI · OCR · RAG · Evidence retrieval · FastAPI
 
-### 🤖 Inteletyx — Multi-Agent AI Framework
+### Inteletyx — Multi-Agent AI Framework
 A framework for turning user intent into orchestrated actions and useful insights, with AI components connected to actual backend execution.
 
 **Under the hood:** Agent orchestration · FastAPI · Gemini API · Vanna · Celery
 
 *Because asking a model to "do the thing" is easy. Making the thing happen reliably is the engineering part.*
 
-### 🌐 OmniAI — Natural-Language Workflow Workspace
+### OmniAI — Natural-Language Workflow Workspace
 A project exploring how people can trigger business workflows using natural language, multilingual interaction, and connected tools.
 
 **Under the hood:** LLM applications · Workflow automation · API integration
 
-### 📦 NiyamDrishti — Compliance Checker
+### NiyamDrishti — Compliance Checker
 A Smart India Hackathon 2025 grand-finale project focused on checking e-commerce listings for Legal Metrology declaration compliance.
 
 **Under the hood:** FastAPI · OCR · Google Gemini · MongoDB · Rule engines
 
-### 📄 TaxGPT — Tax Document Assistant
+### TaxGPT — Tax Document Assistant
 Worked on making a large collection of Dutch tax documents searchable and useful for question answering. Because "just search the PDF" stops being funny at document number 1,400.
 
 **Under the hood:** Azure · Semantic Search · Power Automate · Document retrieval
 
-## 🔬 Problems I find interesting
+## Areas of interest
 
 - **RAG that actually retrieves the right thing.** A confident answer based on the wrong chunk is still wrong. It just has better marketing.
 - **Document intelligence.** Turning PDFs, tables, and scanned pages into structured, verifiable information.
 - **Agents with responsibilities.** Tool calls, state, validation, retries, and sensible failure handling — not just five bots having a meeting.
 - **Production-minded AI.** APIs, observability, evaluation, latency, and the small detail of not catching fire when real users show up.
 
-## 📊 GitHub, according to the little graphs
+## GitHub activity
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=SatchalPatil&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub stats"/>
@@ -124,7 +124,7 @@ Worked on making a large collection of Dutch tax documents searchable and useful
 </div>
 
 
-## 🤝 Reach out
+## Contact
 
 If you're building something with LLMs, RAG, document AI, agentic workflows, or just trying to make a stubborn pipeline behave, I'm happy to talk.
 
@@ -139,7 +139,7 @@ If you're building something with LLMs, RAG, document AI, agentic workflows, or 
 
 <div align="center">
 
-**Building useful things. Breaking them in development. Ideally not in production.** 🫡
+**Building useful things. Breaking them in development. Ideally not in production.**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6C63FF&height=90&section=footer" alt="Animated gradient footer"/>
 
