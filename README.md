@@ -34,19 +34,21 @@ I make AI systems read the PDFs nobody wants to read, connect tools that weren't
 
 > **Current philosophy:** make it work, figure out why it works, then try very hard not to break it in production.
 
-## 🗿 Certified internet moments
+## 🗿 Niche internet lore
 
 <p align="center">
-  <a href="https://www.reddit.com/r/ProgrammerHumor/comments/uwpur4/qa_vs_developer/">
-    <img src="https://preview.redd.it/qa-vs-developer-v0-7iifnx065f191.jpg?auto=webp&s=16ec747378bc567a9e7ad0d861a6f2f25de0829b" width="480" alt="Reddit programmer meme: QA says the code does not run; developer says it works on my machine"/>
-  </a>
-  <br/>
-  <em>“It works on my machine.” — the opening line of every great production incident.</em>
+  <img src="https://media.giphy.com/media/13HgwGsdiamw9q/giphy.gif" width="135" alt="Typing intensely"/>
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="135" alt="Quiet panic"/>
 </p>
 
-- **r/ProgrammerHumor:** the bug is probably one line. Finding that line is a feature-length film.
-- **r/LocalLLaMA:** “I just need a small model” — immediately opens a GPU comparison spreadsheet.
-- **Stack Overflow:** copy, adapt, pray, and never look at that function again.
+<p align="center">
+  <sub><b>RAG returns the wrong chunk at 0.98 similarity</b></sub>
+  &nbsp; • &nbsp;
+  <sub><b>CUDA OOM after “it should fit”</b></sub>
+</p>
+
+<sub>For the people who know the difference between a model demo and a model serving stack. <a href="https://www.reddit.com/r/LocalLLaMA/">r/LocalLLaMA</a> 🤝 <a href="https://www.reddit.com/r/MachineLearning/">r/MachineLearning</a></sub>
 
 ## 🧰 The toolbox
 
