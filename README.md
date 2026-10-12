@@ -8,10 +8,6 @@
 
 I make AI systems read the PDFs nobody wants to read, connect tools that weren't talking to each other, and occasionally explain why the "simple" feature is now a distributed system.
 
-<p align="center">
-  <img height="180" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="Random anime GIF — debugging needs a soundtrack"/>
-</p>
-
 <br/>
 
 <a href="https://www.linkedin.com/in/satchalpatil/">
@@ -38,9 +34,12 @@ I make AI systems read the PDFs nobody wants to read, connect tools that weren't
 
 > **Current philosophy:** make it work, figure out why it works, then try very hard not to break it in production.
 
-<div align="center">
-  <img height="140" src="https://cdn-anibox.pages.dev/facepalm/1.gif" alt="Anime facepalm reaction — when the bug was a missing semicolon"/>
-</div>
+## 🧌 Terminally online, occasionally productive
+
+- **r/ProgrammerHumor:** if it works, don't touch it. If it breaks, blame the dependency.
+- **r/LocalLLaMA:** *"I just need a small model"* — proceeds to price a GPU that costs more than the car.
+- **Stack Overflow energy:** duplicate the answer, change one variable, call it research.
+- **Production:** works on my machine is not an observability strategy.
 
 ## 🧰 The toolbox
 
