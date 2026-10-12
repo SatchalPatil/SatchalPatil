@@ -36,21 +36,9 @@ I make AI systems read the PDFs nobody wants to read, connect tools that weren't
 
 > **Current philosophy:** make it work, figure out why it works, then try very hard not to break it in production.
 
-## <img src="https://cdn.simpleicons.org/reddit/FF4500" height="20" align="absmiddle" alt=""/> Debugging, allegedly
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsdiamw9q/giphy.gif" width="135" alt="Typing intensely"/>
-  &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="135" alt="Quiet panic"/>
+<p align="right">
+  <img src="https://media.giphy.com/media/13HgwGsdiamw9q/giphy.gif" width="105" alt="Typing furiously while debugging"/>
 </p>
-
-<p align="center">
-  <sub><b>RAG returns the wrong chunk at 0.98 similarity</b></sub>
-  &nbsp; • &nbsp;
-  <sub><b>CUDA OOM after “it should fit”</b></sub>
-</p>
-
-<sub><a href="https://www.reddit.com/r/LocalLLaMA/">r/LocalLLaMA</a> · <a href="https://www.reddit.com/r/MachineLearning/">r/MachineLearning</a></sub>
 
 ## <img src="https://img.icons8.com/ios-glyphs/30/6C63FF/code.png" height="20" align="absmiddle" alt=""/> Stack
 
@@ -90,6 +78,10 @@ A framework for turning user intent into orchestrated actions and useful insight
 
 *Because asking a model to "do the thing" is easy. Making the thing happen reliably is the engineering part.*
 
+<p align="right">
+  <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="105" alt="Quiet panic when the agent fails"/>
+</p>
+
 ### <img src="https://img.icons8.com/ios-glyphs/30/6C63FF/workflow.png" height="18" align="absmiddle" alt=""/> OmniAI — Natural-Language Workflow Workspace
 A project exploring how people can trigger business workflows using natural language, multilingual interaction, and connected tools.
 
@@ -107,7 +99,7 @@ Worked on making a large collection of Dutch tax documents searchable and useful
 
 ## <img src="https://img.icons8.com/ios-glyphs/30/6C63FF/brain.png" height="20" align="absmiddle" alt=""/> Areas of interest
 
-- **RAG that actually retrieves the right thing.** A confident answer based on the wrong chunk is still wrong. It just has better marketing.
+- **RAG that actually retrieves the right thing.** A confident answer based on the wrong chunk is still wrong. It just has better marketing. <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="90" align="right" alt="Retrieval debugging reaction"/>
 - **Document intelligence.** Turning PDFs, tables, and scanned pages into structured, verifiable information.
 - **Agents with responsibilities.** Tool calls, state, validation, retries, and sensible failure handling — not just five bots having a meeting.
 - **Production-minded AI.** APIs, observability, evaluation, latency, and the small detail of not catching fire when real users show up.
