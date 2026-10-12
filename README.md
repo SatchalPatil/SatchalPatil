@@ -26,7 +26,7 @@ I make AI systems read the PDFs nobody wants to read, connect tools that weren't
 
 ---
 
-## About
+## <img src="https://img.icons8.com/ios-glyphs/30/6C63FF/user--v1.png" height="20" align="absmiddle" alt=""/> About
 
 - AI & Data Science background. Yes, I have opinions about models. No, adding GPT to a button doesn't automatically make it an AI product.
 - I work around **LLMs, RAG, document intelligence, multi-agent systems, and backend engineering**.
@@ -36,7 +36,7 @@ I make AI systems read the PDFs nobody wants to read, connect tools that weren't
 
 > **Current philosophy:** make it work, figure out why it works, then try very hard not to break it in production.
 
-## Niche internet lore
+## <img src="https://cdn.simpleicons.org/reddit/FF4500" height="20" align="absmiddle" alt=""/> Niche internet lore
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsdiamw9q/giphy.gif" width="135" alt="Typing intensely"/>
@@ -52,7 +52,7 @@ I make AI systems read the PDFs nobody wants to read, connect tools that weren't
 
 <sub>For the people who know the difference between a model demo and a model serving stack. <a href="https://www.reddit.com/r/LocalLLaMA/">r/LocalLLaMA</a> / <a href="https://www.reddit.com/r/MachineLearning/">r/MachineLearning</a></sub>
 
-## Stack
+## <img src="https://img.icons8.com/ios-glyphs/30/6C63FF/code.png" height="20" align="absmiddle" alt=""/> Stack
 
 <div align="center">
 
@@ -76,43 +76,43 @@ I make AI systems read the PDFs nobody wants to read, connect tools that weren't
 
 *The stack changes. The debugging remains.*
 
-## Selected work
+## <img src="https://img.icons8.com/ios-glyphs/30/6C63FF/maintenance.png" height="20" align="absmiddle" alt=""/> Selected work
 
-### Iverix — Pharma Compliance Verification
+### <img src="https://img.icons8.com/ios-glyphs/30/6C63FF/document.png" height="18" align="absmiddle" alt=""/> Iverix — Pharma Compliance Verification
 AI-assisted verification of pharmaceutical Batch Manufacturing Records (BMRs). The goal: help reviewers find relevant information and evidence without manually spelunking through document mountains.
 
 **Under the hood:** Document AI · OCR · RAG · Evidence retrieval · FastAPI
 
-### Inteletyx — Multi-Agent AI Framework
+### <img src="https://img.icons8.com/ios-glyphs/30/6C63FF/artificial-intelligence.png" height="18" align="absmiddle" alt=""/> Inteletyx — Multi-Agent AI Framework
 A framework for turning user intent into orchestrated actions and useful insights, with AI components connected to actual backend execution.
 
 **Under the hood:** Agent orchestration · FastAPI · Gemini API · Vanna · Celery
 
 *Because asking a model to "do the thing" is easy. Making the thing happen reliably is the engineering part.*
 
-### OmniAI — Natural-Language Workflow Workspace
+### <img src="https://img.icons8.com/ios-glyphs/30/6C63FF/workflow.png" height="18" align="absmiddle" alt=""/> OmniAI — Natural-Language Workflow Workspace
 A project exploring how people can trigger business workflows using natural language, multilingual interaction, and connected tools.
 
 **Under the hood:** LLM applications · Workflow automation · API integration
 
-### NiyamDrishti — Compliance Checker
+### <img src="https://img.icons8.com/ios-glyphs/30/6C63FF/checked-checkbox.png" height="18" align="absmiddle" alt=""/> NiyamDrishti — Compliance Checker
 A Smart India Hackathon 2025 grand-finale project focused on checking e-commerce listings for Legal Metrology declaration compliance.
 
 **Under the hood:** FastAPI · OCR · Google Gemini · MongoDB · Rule engines
 
-### TaxGPT — Tax Document Assistant
+### <img src="https://img.icons8.com/ios-glyphs/30/6C63FF/search.png" height="18" align="absmiddle" alt=""/> TaxGPT — Tax Document Assistant
 Worked on making a large collection of Dutch tax documents searchable and useful for question answering. Because "just search the PDF" stops being funny at document number 1,400.
 
 **Under the hood:** Azure · Semantic Search · Power Automate · Document retrieval
 
-## Areas of interest
+## <img src="https://img.icons8.com/ios-glyphs/30/6C63FF/brain.png" height="20" align="absmiddle" alt=""/> Areas of interest
 
 - **RAG that actually retrieves the right thing.** A confident answer based on the wrong chunk is still wrong. It just has better marketing.
 - **Document intelligence.** Turning PDFs, tables, and scanned pages into structured, verifiable information.
 - **Agents with responsibilities.** Tool calls, state, validation, retries, and sensible failure handling — not just five bots having a meeting.
 - **Production-minded AI.** APIs, observability, evaluation, latency, and the small detail of not catching fire when real users show up.
 
-## GitHub activity
+## <img src="https://cdn.simpleicons.org/github/6C63FF" height="20" align="absmiddle" alt=""/> GitHub activity
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=SatchalPatil&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub stats"/>
@@ -124,7 +124,7 @@ Worked on making a large collection of Dutch tax documents searchable and useful
 </div>
 
 
-## Contact
+## <img src="https://img.icons8.com/ios-glyphs/30/6C63FF/secured-letter.png" height="20" align="absmiddle" alt=""/> Contact
 
 If you're building something with LLMs, RAG, document AI, agentic workflows, or just trying to make a stubborn pipeline behave, I'm happy to talk.
 
