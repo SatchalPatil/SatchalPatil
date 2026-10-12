@@ -105,7 +105,6 @@ Worked on making a large collection of Dutch tax documents searchable and useful
   <img src="https://streak-stats.demolab.com?user=SatchalPatil&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </div>
 
-<sub>These are statistics, not a performance review. Please don't let a graph decide your self-worth.</sub>
 
 ## 🤝 Reach out
 
