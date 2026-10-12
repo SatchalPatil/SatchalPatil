@@ -37,7 +37,7 @@ I make AI systems read the PDFs nobody wants to read, connect tools that weren't
 > **Current philosophy:** make it work, figure out why it works, then try very hard not to break it in production.
 
 <p align="right">
-  <img src="https://media.giphy.com/media/13HgwGsdiamw9q/giphy.gif" width="105" alt="Typing furiously while debugging"/>
+  <img src="https://media.giphy.com/media/3jbR27OLT5YJv0ewvN/giphy.gif" width="105" alt="This is fine reaction for production debugging"/>
 </p>
 
 ## <img src="https://img.icons8.com/ios-glyphs/30/6C63FF/code.png" height="20" align="absmiddle" alt=""/> Stack
@@ -64,6 +64,10 @@ I make AI systems read the PDFs nobody wants to read, connect tools that weren't
 
 *The stack changes. The debugging remains.*
 
+<p align="right">
+  <img src="https://media.giphy.com/media/3oKGzgNfssFG1xlwC4/giphy.gif" width="105" alt="Computer overheating during deployment and GPU debugging"/>
+</p>
+
 ## <img src="https://img.icons8.com/ios-glyphs/30/6C63FF/maintenance.png" height="20" align="absmiddle" alt=""/> Selected work
 
 ### <img src="https://img.icons8.com/ios-glyphs/30/6C63FF/document.png" height="18" align="absmiddle" alt=""/> Iverix — Pharma Compliance Verification
@@ -79,7 +83,7 @@ A framework for turning user intent into orchestrated actions and useful insight
 *Because asking a model to "do the thing" is easy. Making the thing happen reliably is the engineering part.*
 
 <p align="right">
-  <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="105" alt="Quiet panic when the agent fails"/>
+  <img src="https://media.giphy.com/media/zRwA2JgARLVYgWtfgY/giphy.gif" width="105" alt="Agents pointing at each other when a workflow fails"/>
 </p>
 
 ### <img src="https://img.icons8.com/ios-glyphs/30/6C63FF/workflow.png" height="18" align="absmiddle" alt=""/> OmniAI — Natural-Language Workflow Workspace
