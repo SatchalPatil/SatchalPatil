@@ -36,7 +36,7 @@ I make AI systems read the PDFs nobody wants to read, connect tools that weren't
 
 > **Current philosophy:** make it work, figure out why it works, then try very hard not to break it in production.
 
-## <img src="https://cdn.simpleicons.org/reddit/FF4500" height="20" align="absmiddle" alt=""/> Niche internet lore
+## <img src="https://cdn.simpleicons.org/reddit/FF4500" height="20" align="absmiddle" alt=""/> Debugging, allegedly
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsdiamw9q/giphy.gif" width="135" alt="Typing intensely"/>
@@ -50,7 +50,7 @@ I make AI systems read the PDFs nobody wants to read, connect tools that weren't
   <sub><b>CUDA OOM after “it should fit”</b></sub>
 </p>
 
-<sub>For the people who know the difference between a model demo and a model serving stack. <a href="https://www.reddit.com/r/LocalLLaMA/">r/LocalLLaMA</a> / <a href="https://www.reddit.com/r/MachineLearning/">r/MachineLearning</a></sub>
+<sub><a href="https://www.reddit.com/r/LocalLLaMA/">r/LocalLLaMA</a> · <a href="https://www.reddit.com/r/MachineLearning/">r/MachineLearning</a></sub>
 
 ## <img src="https://img.icons8.com/ios-glyphs/30/6C63FF/code.png" height="20" align="absmiddle" alt=""/> Stack
 
