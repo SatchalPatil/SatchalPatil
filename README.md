@@ -1,17 +1,20 @@
-<!-- ===================== HEADER ===================== -->
+<!-- A reasonably serious README written by a person who debugs things for a living. -->
+
 <div align="center">
 
-# Hey, I'm Satchal Patil 👋
+# Yo, I'm Satchal Patil 👋
 
-### AI Engineer · LLM Systems · Multi-Agent Workflows
+### AI Engineer • LLMs • Agents • Occasional bug negotiator
 
-I build AI systems that move beyond demos — from document intelligence and RAG pipelines to agentic workflows and production APIs.
+I make AI systems read the PDFs nobody wants to read, connect tools that weren't talking to each other, and occasionally explain why the "simple" feature is now a distributed system.
+
+<br/>
 
 <a href="https://www.linkedin.com/in/satchalpatil/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:satchalpatil04@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-Send%20a%20Signal-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/SatchalPatil">
   <img src="https://komarev.com/ghpvc/?username=SatchalPatil&style=for-the-badge&color=6C63FF" alt="Profile views"/>
@@ -21,88 +24,92 @@ I build AI systems that move beyond demos — from document intelligence and RAG
 
 ---
 
-## 🧠 About Me
+## 🧠 The lore
 
-- 🎓 Background in **Artificial Intelligence & Data Science**.
-- 🛠️ Focused on building **LLM-powered applications**, document intelligence systems, RAG, and multi-agent workflows.
-- 🧩 Interested in the engineering behind useful AI: retrieval quality, orchestration, APIs, data pipelines, evaluation, and deployment.
-- 🚀 Have worked on AI products for **pharma compliance**, **business workflow automation**, and **document-heavy processes**.
-- 🌱 Currently sharpening my foundations in systems, algorithms, and building reliable software around AI.
+- 🎓 AI & Data Science background. Yes, I have opinions about models. No, adding GPT to a button doesn't automatically make it an AI product.
+- 🏗️ I work around **LLMs, RAG, document intelligence, multi-agent systems, and backend engineering**.
+- 📄 I enjoy making sense of messy PDFs, compliance documents, and data that appears to have been formatted during a power cut.
+- 🔌 I like connecting models to real tools, APIs, databases, and workflows — because a chatbot that only chats is sometimes just a very expensive FAQ.
+- 🧪 Interested in making AI systems more reliable, traceable, and useful outside a demo video.
 
-> My goal: turn AI capabilities into systems people can actually use.
+> **Current philosophy:** make it work, figure out why it works, then try very hard not to break it in production.
 
-## 🧰 Tech Stack
+## 🧰 The toolbox
 
 <div align="center">
 
 **Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" alt="Python, C++, JavaScript, HTML, CSS"/>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,sql" alt="Python, C++, JavaScript, HTML, CSS, SQL"/>
-
-**AI / ML & LLM Engineering**
-
-<img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch"/>  
-<img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face Transformers"/>
-<img src="https://img.shields.io/badge/RAG-Retrieval%20Systems-6C63FF?style=flat-square" alt="RAG"/>
-<img src="https://img.shields.io/badge/Multi--Agent-AI%20Workflows-222222?style=flat-square" alt="Multi-Agent AI Workflows"/>
-<img src="https://img.shields.io/badge/LLMs-Open%20%26%20Hosted%20Models-412991?style=flat-square" alt="LLMs"/>
-
-**Backend, Data & Infrastructure**
-
+**Backend & infrastructure**
+<br/>
 <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,linux,git,github,mysql,aws" alt="FastAPI, Flask, Docker, Linux, Git, GitHub, MySQL, AWS"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/LLMs-RAG%20%26%20Agents-6C63FF?style=flat-square" alt="LLMs, RAG and agents"/>
+<img src="https://img.shields.io/badge/Document%20AI-OCR%20%26%20Extraction-222222?style=flat-square" alt="Document AI"/>
+<img src="https://img.shields.io/badge/Vector%20Search-FAISS%20%7C%20Qdrant%20%7C%20ChromaDB-2496ED?style=flat-square" alt="Vector search"/>
 
 </div>
 
-**Tools & libraries I’ve worked with:** FastAPI, Flask, LangChain, LangGraph, Hugging Face Transformers, Sentence Transformers, Gemini API, OpenAI API, Ollama, ChromaDB, Qdrant, FAISS, Celery, Pandas, NumPy, scikit-learn, PyMuPDF, pdfplumber, docTR and OCR pipelines.
+**Other tools I've worked with:** PyTorch, Hugging Face Transformers, LangChain, LangGraph, Sentence Transformers, Gemini API, OpenAI API, Ollama, Celery, Vanna, Pandas, NumPy, scikit-learn, PyMuPDF, pdfplumber, docTR and OCR pipelines.
 
-## 🚀 Selected Work
+*The stack changes. The debugging remains.*
+
+## 🚀 Things I've helped build
 
 ### 🏭 Iverix — Pharma Compliance Verification
-Designed and developed an AI-assisted system for checking pharmaceutical Batch Manufacturing Records (BMRs) against compliance requirements. Focus areas included document processing, retrieval, evidence-grounded responses, and reducing manual review effort.
+AI-assisted verification of pharmaceutical Batch Manufacturing Records (BMRs). The goal: help reviewers find relevant information and evidence without manually spelunking through document mountains.
 
-**Focus:** Document AI · RAG · OCR · Compliance workflows · FastAPI
+**Under the hood:** Document AI · OCR · RAG · Evidence retrieval · FastAPI
 
 ### 🤖 Inteletyx — Multi-Agent AI Framework
-Worked on a multi-agent framework for turning user intent into orchestrated actions and useful insights, connecting AI components with backend task execution.
+A framework for turning user intent into orchestrated actions and useful insights, with AI components connected to actual backend execution.
 
-**Focus:** Agent orchestration · FastAPI · Gemini API · Vanna · Celery
+**Under the hood:** Agent orchestration · FastAPI · Gemini API · Vanna · Celery
+
+*Because asking a model to "do the thing" is easy. Making the thing happen reliably is the engineering part.*
 
 ### 🌐 OmniAI — Natural-Language Workflow Workspace
-A final-year project concept for a workspace that lets users initiate business actions using natural language, with multilingual interaction and workflow automation.
+A project exploring how people can trigger business workflows using natural language, multilingual interaction, and connected tools.
 
-**Focus:** LLM applications · Workflow automation · API integration
+**Under the hood:** LLM applications · Workflow automation · API integration
 
 ### 📦 NiyamDrishti — Compliance Checker
-A Smart India Hackathon 2025 grand-finale project focused on checking e-commerce listings for Legal Metrology declaration compliance using document/web data extraction and rule-based verification.
+A Smart India Hackathon 2025 grand-finale project focused on checking e-commerce listings for Legal Metrology declaration compliance.
 
-**Focus:** FastAPI · OCR · Google Gemini · MongoDB · Rule engines
+**Under the hood:** FastAPI · OCR · Google Gemini · MongoDB · Rule engines
 
 ### 📄 TaxGPT — Tax Document Assistant
-Worked on an LLM-based assistant pipeline to make a large collection of Dutch tax documents searchable and useful for question answering.
+Worked on making a large collection of Dutch tax documents searchable and useful for question answering. Because "just search the PDF" stops being funny at document number 1,400.
 
-**Focus:** Azure · Semantic Search · Power Automate · Document retrieval
+**Under the hood:** Azure · Semantic Search · Power Automate · Document retrieval
 
-## 🧭 What I Like Building
+## 🔬 Problems I find interesting
 
-- **Evidence-grounded AI:** RAG pipelines that retrieve the right information and cite where an answer came from.
-- **Document intelligence:** Extracting structured information from PDFs and complex business documents.
-- **AI agents that do work:** Connecting model reasoning to tools, APIs, validation, and background jobs.
-- **Production-minded backends:** Clear API contracts, error handling, evaluation, and maintainable system design.
+- **RAG that actually retrieves the right thing.** A confident answer based on the wrong chunk is still wrong. It just has better marketing.
+- **Document intelligence.** Turning PDFs, tables, and scanned pages into structured, verifiable information.
+- **Agents with responsibilities.** Tool calls, state, validation, retries, and sensible failure handling — not just five bots having a meeting.
+- **Production-minded AI.** APIs, observability, evaluation, latency, and the small detail of not catching fire when real users show up.
 
-## 📊 GitHub Snapshot
+## 📊 GitHub, according to the little graphs
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SatchalPatil&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Satchal's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatchalPatil&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SatchalPatil&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatchalPatil&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages"/>
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=SatchalPatil&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </div>
 
-## 🤝 Let's Connect
+<sub>These are statistics, not a performance review. Please don't let a graph decide your self-worth.</sub>
 
-I’m interested in conversations around LLM engineering, document AI, RAG, agentic systems, and building AI products that solve real workflow problems.
+## 🤝 Reach out
+
+If you're building something with LLMs, RAG, document AI, agentic workflows, or just trying to make a stubborn pipeline behave, I'm happy to talk.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/satchalpatil/">
@@ -113,4 +120,8 @@ I’m interested in conversations around LLM engineering, document AI, RAG, agen
   </a>
 </div>
 
-<!-- Profile README maintained by Satchal Patil -->
+<div align="center">
+
+**Building useful things. Breaking them in development. Ideally not in production.** 🫡
+
+</div>
