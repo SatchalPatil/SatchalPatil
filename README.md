@@ -8,6 +8,10 @@
 
 I make AI systems read the PDFs nobody wants to read, connect tools that weren't talking to each other, and occasionally explain why the "simple" feature is now a distributed system.
 
+<p align="center">
+  <img height="180" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="Random anime GIF — debugging needs a soundtrack"/>
+</p>
+
 <br/>
 
 <a href="https://www.linkedin.com/in/satchalpatil/">
@@ -33,6 +37,10 @@ I make AI systems read the PDFs nobody wants to read, connect tools that weren't
 - 🧪 Interested in making AI systems more reliable, traceable, and useful outside a demo video.
 
 > **Current philosophy:** make it work, figure out why it works, then try very hard not to break it in production.
+
+<div align="center">
+  <img height="140" src="https://cdn-anibox.pages.dev/facepalm/1.gif" alt="Anime facepalm reaction — when the bug was a missing semicolon"/>
+</div>
 
 ## 🧰 The toolbox
 
