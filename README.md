@@ -103,7 +103,7 @@ Worked on making a large collection of Dutch tax documents searchable and useful
 
 ## <img src="https://img.icons8.com/ios-glyphs/30/6C63FF/brain.png" height="20" align="absmiddle" alt=""/> Areas of interest
 
-- **RAG that actually retrieves the right thing.** A confident answer based on the wrong chunk is still wrong. It just has better marketing. <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="90" align="right" alt="Retrieval debugging reaction"/>
+- **RAG that actually retrieves the right thing.** A confident answer based on the wrong chunk is still wrong. It just has better marketing. <img src="https://media.giphy.com/media/1wnZt7VY9yPDZRZ9M6/giphy.gif" width="90" align="right" alt="Confused math lady for retrieving the wrong RAG chunk"/>
 - **Document intelligence.** Turning PDFs, tables, and scanned pages into structured, verifiable information.
 - **Agents with responsibilities.** Tool calls, state, validation, retries, and sensible failure handling — not just five bots having a meeting.
 - **Production-minded AI.** APIs, observability, evaluation, latency, and the small detail of not catching fire when real users show up.
