@@ -36,9 +36,6 @@ I make AI systems read the PDFs nobody wants to read, connect tools that weren't
 
 > **Current philosophy:** make it work, figure out why it works, then try very hard not to break it in production.
 
-<p align="right">
-  <img src="https://media.giphy.com/media/3jbR27OLT5YJv0ewvN/giphy.gif" width="105" alt="This is fine reaction for production debugging"/>
-</p>
 
 ## <img src="https://img.icons8.com/ios-glyphs/30/6C63FF/code.png" height="20" align="absmiddle" alt=""/> Stack
 
@@ -64,9 +61,6 @@ I make AI systems read the PDFs nobody wants to read, connect tools that weren't
 
 *The stack changes. The debugging remains.*
 
-<p align="right">
-  <img src="https://media.giphy.com/media/3oKGzgNfssFG1xlwC4/giphy.gif" width="105" alt="Computer overheating during deployment and GPU debugging"/>
-</p>
 
 ## <img src="https://img.icons8.com/ios-glyphs/30/6C63FF/maintenance.png" height="20" align="absmiddle" alt=""/> Selected work
 
@@ -82,9 +76,6 @@ A framework for turning user intent into orchestrated actions and useful insight
 
 *Because asking a model to "do the thing" is easy. Making the thing happen reliably is the engineering part.*
 
-<p align="right">
-  <img src="https://media.giphy.com/media/zRwA2JgARLVYgWtfgY/giphy.gif" width="105" alt="Agents pointing at each other when a workflow fails"/>
-</p>
 
 ### <img src="https://img.icons8.com/ios-glyphs/30/6C63FF/workflow.png" height="18" align="absmiddle" alt=""/> OmniAI — Natural-Language Workflow Workspace
 A project exploring how people can trigger business workflows using natural language, multilingual interaction, and connected tools.
@@ -103,7 +94,7 @@ Worked on making a large collection of Dutch tax documents searchable and useful
 
 ## <img src="https://img.icons8.com/ios-glyphs/30/6C63FF/brain.png" height="20" align="absmiddle" alt=""/> Areas of interest
 
-- **RAG that actually retrieves the right thing.** A confident answer based on the wrong chunk is still wrong. It just has better marketing. <img src="https://media.giphy.com/media/1wnZt7VY9yPDZRZ9M6/giphy.gif" width="90" align="right" alt="Confused math lady for retrieving the wrong RAG chunk"/>
+- **RAG that actually retrieves the right thing.** A confident answer based on the wrong chunk is still wrong. It just has better marketing.
 - **Document intelligence.** Turning PDFs, tables, and scanned pages into structured, verifiable information.
 - **Agents with responsibilities.** Tool calls, state, validation, retries, and sensible failure handling — not just five bots having a meeting.
 - **Production-minded AI.** APIs, observability, evaluation, latency, and the small detail of not catching fire when real users show up.
